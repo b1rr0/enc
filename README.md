@@ -1,4 +1,4 @@
-# Data Visualization for Intro to Encryption
+# Intro to Encryption
 
 This project was created to demonstrate key encryption concepts and data visualization techniques during a lecture on **Introduction to Encryption**.
 
